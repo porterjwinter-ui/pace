@@ -1,0 +1,6 @@
+{
+  "name": "pace",
+  "private": true,
+  "type": "module",
+  "description": "Static app. No build step; package.json only tells Node these files are ES modules for tests."
+}
